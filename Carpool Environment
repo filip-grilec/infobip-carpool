@@ -1,0 +1,29 @@
+{
+	"id": "f34588dd-584b-4106-b214-9d2055ac5b22",
+	"name": "Dev",
+	"values": [
+		{
+			"key": "tokenAuth",
+			"value": "{{tokenAuth}}",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "bla",
+			"enabled": true
+		},
+		{
+			"key": "userName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-02-12T11:29:40.007Z",
+	"_postman_exported_using": "Postman/7.36.4"
+}
