@@ -36,3 +36,5 @@ Some features are missing because of time constraints :
 Apply migration to database
 `python3 .\UpdateDatabase.py`
 
+
+Postman collection and enviroment included
