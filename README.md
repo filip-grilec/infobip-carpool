@@ -7,6 +7,8 @@ Run front end :
 
 ```cd .\ClientApp\```
 
+```npm i```
+
 ```npm run```
 
 Deployed on the web at [Azure](https://infobip-carpool.azurewebsites.net/)
