@@ -9,7 +9,7 @@ Run front end :
 
 ```npm i```
 
-```npm run```
+```npm start```
 
 Deployed on the web at [Azure](https://infobip-carpool.azurewebsites.net/)
 
